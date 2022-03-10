@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468847583519",
+    "project_id": "egy-tour-2b850",
+    "storage_bucket": "egy-tour-2b850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468847583519:android:6dc8b70d4c01fcdc76d02a",
+        "android_client_info": {
+          "package_name": "com.example.egy_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468847583519-0c7om3pphgc255t5hoqg123to9g2qhju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egy_tour",
+            "certificate_hash": "7d1efa1198734c1fdf8735944e2e68b019efd8c6"
+          }
+        },
+        {
+          "client_id": "468847583519-l6o0rgivs3d99c3ed65prcpdkakk252q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5cRcb1FA131NmSV3nRXhROiSmOFUNv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468847583519-l6o0rgivs3d99c3ed65prcpdkakk252q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
